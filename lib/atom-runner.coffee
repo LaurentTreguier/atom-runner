@@ -33,6 +33,7 @@ class AtomRunner
     go: 'go run'
     shell: 'bash'
     powershell: 'c:\\windows\\sysnative\\windowspowershell\\v1.0\\powershell.exe -noninteractive -noprofile -c -'
+    d: 'rdmd'
 
   extensionMap: null
   scopeMap: null
